@@ -1,5 +1,5 @@
 
-RUBY TASK (PHASE-1)
+<H1> CMU TASK-1 (RUBY) 
 
 # Task
 
@@ -34,4 +34,7 @@ and do not contain a 'y'.
 Find all words of length 4 or 5 that contain a 'y' but do not end with a 'y'.
 
 <H5>Next Week use api for filtering!!</H5>
+
+[Name - Bhavik Chandna
+ Country - India]
 
