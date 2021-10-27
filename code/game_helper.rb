@@ -11,7 +11,7 @@ class GameHelper
   # or I could have called attr_accessor to create both getter
   # and setter at once.  How does all this magic happen?
   # During evaluation of the class, the ruby injects the
-  # getter and setter functions into the class definition for you.
+  # getter and setter functions into the class definition for you
 
   # this is the object constructor...defined as the constructor
   # by virtue of its name, initialize.
