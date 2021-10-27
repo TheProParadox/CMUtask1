@@ -3,12 +3,7 @@
 # to illustrate how you'd define your own class.
 class GameHelper 
 
-  # normally, instance variables (those that being with an @)
-  # are not accessible outside the object.  Ruby provides helper
-  # macros to provide getters and setters.  Here, I'm using 
-  # attr_reader to create a getter function.  The format for these
-  # kinds of macros is to follow the macro name with a symbol
-  # that matches the instance variable name without the @.  
+ 
   attr_reader :all_words
 
   # note that I could also have called attr_writer here to
