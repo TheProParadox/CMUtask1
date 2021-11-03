@@ -1,12 +1,7 @@
 
 class GameHelper 
 
-  # normally, instance variables (those that being with an @)
-  # are not accessible outside the object.  Ruby provides helper
-  # macros to provide getters and setters.  Here, I'm using 
-  # attr_reader to create a getter function.  The format for these
-  # kinds of macros is to follow the macro name with a symbol
-  # that matches the instance variable name without the @.  
+ 
   attr_reader :all_words
 
   # note that I could also have called attr_writer here to
@@ -14,7 +9,7 @@ class GameHelper
   # or I could have called attr_accessor to create both getter
   # and setter at once.  How does all this magic happen?
   # During evaluation of the class, the ruby injects the
-  # getter and setter functions into the class definition for you.
+  # getter and setter functions into the class definition for you
 
   # this is the object constructor...defined as the constructor
   # by virtue of its name, initialize.

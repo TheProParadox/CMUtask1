@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 RUBY TASK (PHASE-2)
+=======
+<H1> CMU TASK-1 (RUBY) 
+>>>>>>> bbe5c15d7ec7803c05c9c173b716bb149a9adf75
 
 # Task
 
@@ -33,6 +37,14 @@ and do not contain a 'y'.
 ## Test Case 4
 Find all words of length 4 or 5 that contain a 'y' but do not end with a 'y'.
 
+<<<<<<< HEAD
 <H5>Next week learning about Ruby datasets and implementation on EXPERIMENT!!</H5>
 
+=======
+<H5>Next Week will learn to use api for filtering!!</H5>
+ 
+ 
+
+[Name - Bhavik Chandna Country - India]
+>>>>>>> bbe5c15d7ec7803c05c9c173b716bb149a9adf75
 
