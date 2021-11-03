@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 CMU RUBY TASK (PHASE-2)
 
 # Task
