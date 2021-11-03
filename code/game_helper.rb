@@ -1,6 +1,4 @@
 
-# This class is probably overkill, but I'm including it here
-# to illustrate how you'd define your own class.
 class GameHelper 
 
   # normally, instance variables (those that being with an @)

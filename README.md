@@ -1,5 +1,5 @@
 
-RUBY TASK (PHASE-1)
+RUBY TASK (PHASE-2)
 
 # Task
 
@@ -33,5 +33,6 @@ and do not contain a 'y'.
 ## Test Case 4
 Find all words of length 4 or 5 that contain a 'y' but do not end with a 'y'.
 
-<H5>Next Week use api for filtering!!</H5>
+<H5>Next week learning about Ruby datasets and implementation on EXPERIMENT!!</H5>
+
 
